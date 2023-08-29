@@ -8,3 +8,5 @@ Bienvenidos al nuevo semestre, esta es la materia de **Programación en Lenguaje
 - [Teoría _CLI_](https://jonmircha.com/terminal).
 - [Teoría _Git_](https://jonmircha.com/git).
 - [Repositorio de la Materia](https://github.com/jonmircha/amerike-lenguajes-interpretados-2023).
+
+Agregando más contenido al README, para ver que pasa cuando no actualizas tu copia del repo original
