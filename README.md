@@ -12,3 +12,5 @@ Bienvenidos al nuevo semestre, esta es la materia de **Programación en Lenguaje
 Agregando más contenido al README, para ver que pasa cuando no actualizas tu copia del repo original
 
 Agregamos nuevo contenido
+
+Aprendiendo a crear etiquetas
