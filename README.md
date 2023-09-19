@@ -14,5 +14,3 @@ Agregando más contenido al README, para ver que pasa cuando no actualizas tu co
 Agregamos nuevo contenido
 
 Aprendiendo a crear etiquetas
-
-Probando...
