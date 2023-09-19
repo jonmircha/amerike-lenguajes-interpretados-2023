@@ -25,3 +25,14 @@ Soy el pelirrojo de Amerike
 - [GitHub/KurenaiOuji](https://github.com/KurenaiOuji)
 
 ![FerH](./img/FerH.jpeg)
+
+### Victor Andre Sanchez Garcia
+
+Uno de los 3 cabroncitos 
+
+- [cdmx2339@amerike.edu.mx](cdmx2339@amerike.edu.mx)
+- [https://github.com/Victor-Sanchez-3010](https://github.com/Victor-Sanchez-3010)
+
+![Yo](./img/VictorS.jpeg)
+
+---
