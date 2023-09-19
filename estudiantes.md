@@ -83,3 +83,14 @@ tengo 19 años y estudio en amerike
 ![_Samuel Gutierrez_](./assets/misaysam.jpg)
 
 ---
+
+### Jose Andres Rodriguez Chirino
+
+Qiubo, soy vicio, tu disonancia cognitivca favorita.
+
+- [cdmx2418@amerike.edu.mx](cdmx2418@amerike.edu.mx)
+- [_GitHub/jonmircha_](https://github.com/Sholensk)
+
+![_vicio_](./img/vicio.jpg)
+
+---
