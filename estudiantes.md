@@ -16,3 +16,13 @@ Hola soy tu amigo y docente digital.
 ---
 
 ## Estudiantes
+### Luis Eduardo Lemus Pérez
+
+Estudia en Amerike y le gusta la filosofía. Es el más calmado de los tres cabroncitos jajaja
+
+- [cdmx2523@amerike.edu.mx](cdmx2523@amerike.edu.mx)
+- [https://github.com/Yiztino](https://github.com/Yiztino)
+
+![Luis Eduardo Lemus Pérez](./img/Yx-Z-io.jpg)
+
+---
