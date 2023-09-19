@@ -60,3 +60,35 @@ soy wilbert tengo 20 años y estoy estudiando la carrera de desarrollo de softwa
 ![_Wilbert Arcila_](./assets/rn_image_picker_lib_temp_b20b7ae4-12f6-4c9c-a45e-b08c69334f3d.jpg)
 
 ---
+
+### Jonathan Zavala
+
+me gusta jugar videojuegos y ver anime 
+
+- [cdmx2506@amerike.edu.mx](cdmx2506@amerike.edu.mx)
+- [_GitHub/Zniver4_](https://github.com/Zniver4)
+![Jonathan Zavala](./img/Jonathan-zav.jpg)
+
+---
+
+### Carol Torres
+
+Juego overwatch
+
+- [cdmx2419@amerike.edu.mx](cdmx2419@amerike.edu.mx)
+- [GitHub/Ikkilink](https://github.com/Ikkilink)
+
+![_Carol Torres_](https://raw.githubusercontent.com/Ikkilink/Practica3/main/assets/20230810_135006.jpg)
+
+---
+
+### Samuel Gutierrez
+
+tengo 19 años y estudio en amerike
+
+- [cdmx2547Qamerike.edu.mx](cdmx2547Qamerike.edu.mx)
+- [_GitHub/SamGtzs](https://github.com/SamGtzs)
+
+![_Samuel Gutierrez_](./assets/misaysam.jpg)
+
+---
