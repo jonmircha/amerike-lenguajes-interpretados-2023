@@ -17,6 +17,15 @@ Hola soy tu amigo y docente digital.
 
 ## Estudiantes
 
+### Víctor Javier Chavarría Martínez
+
+18 años, actor, coreografo, bailarin, estudiante de programación y canto, atleta, Smash && BS ProPL, y GYM rat.
+
+- [Email](cdmx2372@amerike.edu.mx)
+- [Git](https://github.com/VictorJ-Ch)
+
+![Víctor J. Chavarría Mtz.](./img/VictorJ-Ch.jpg)
+
 ### Fernando Horta Peña
 
 Soy el pelirrojo de Amerike
