@@ -16,3 +16,11 @@ Hola soy tu amigo y docente digital.
 ---
 
 ## Estudiantes
+
+### Carol Torres
+Juego overwatch
+
+- [cdmx2419@amerike.edu.mx](cdmx2419@amerike.edu.mx)
+- [GitHub/Ikkilink](https://github.com/Ikkilink)
+
+![_Carol Torres_](https://raw.githubusercontent.com/Ikkilink/Practica3/main/assets/20230810_135006.jpg)
