@@ -16,3 +16,13 @@ Hola soy tu amigo y docente digital.
 ---
 
 ## Estudiantes
+### Jose Andres Rodriguez Chirino
+
+Qiubo, soy vicio, tu disonancia cognitivca favorita.
+
+- [cdmx2418@amerike.edu.mx](cdmx2418@amerike.edu.mx)
+- [_GitHub/jonmircha_](https://github.com/Sholensk)
+
+![_vicio_](./img/vicio.jpg)
+
+---
