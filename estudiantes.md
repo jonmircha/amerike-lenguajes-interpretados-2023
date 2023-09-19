@@ -25,3 +25,12 @@ Soy el pelirrojo de Amerike
 - [GitHub/KurenaiOuji](https://github.com/KurenaiOuji)
 
 ![FerH](./img/FerH.jpeg)
+
+### David Murillo Estrada
+
+Estudiante Amerike y Develop
+
+- [cdmx2417@amerike.edu.mx](cdmx2417@amerike.edu.mx)
+- [GitHub/DavidMurilloE](https://github.com/DavidMurilloE)
+
+![David Murillo](<img/Foto Whats.jpg>)
