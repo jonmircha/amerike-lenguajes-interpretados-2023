@@ -85,6 +85,17 @@ soy wilbert tengo 20 años y estoy estudiando la carrera de desarrollo de softwa
 
 ---
 
+### Diego Lecanda
+
+soy diego tengo 20 años y estudio en Amerike 
+
+- [cdmx2406@amerike.edu.mx](cdmx2406@amerike.edu.mx)
+- [_GitHub/Diegolec18](https://github.com/warcilac9)
+
+![_Diegolecanda_](./img/diego.jpeg)
+
+---
+
 ### Jonathan Zavala
 
 me gusta jugar videojuegos y ver anime 
