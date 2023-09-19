@@ -51,3 +51,16 @@ soy wilbert tengo 20 años y estoy estudiando la carrera de desarrollo de softwa
 ![_Wilbert Arcila_](./assets/rn_image_picker_lib_temp_b20b7ae4-12f6-4c9c-a45e-b08c69334f3d.jpg)
 
 ---
+
+### Hector Otero 
+
+Soy Hector Otero
+
+Tengo 19 años y estudio en Amerike. Revivan a Juan Gabriel
+
+- [cdmx2292@amerike.edu.mx](cdmx2292@amerike.edu.mx)
+- [_GitHub/HectorOtero_](https://github.com/HectorOtero)
+
+![HectorOtero](./img/BB159DC5-C15B-4A57-9992-2865E44081F5.JPG)
+
+---
