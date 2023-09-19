@@ -17,13 +17,13 @@ Hola soy tu amigo y docente digital.
 
 ## Estudiantes
 
-### Tu nombre completo
+### Amaury Flores Estudillo
 
-Un breve párrafo de presentación sobre quien eres
+Estudiante de amerike, inventor del agua
 
-- [tucorreo@amerike.edu.mx](cdmx2472@amerike.edu.mx)
-- [Tu perfil de _GitHub_](https://github.com/amauryxd)
+- [cdmx2472@amerike.edu.mx](cdmx2472@amerike.edu.mx)
+- [_Github.com/amauryxd_](https://github.com/amauryxd)
 
-![Amaury](./img/tu-foto.jpg)
+![Amaury](./img/amaury.jpeg)
 
 ---
