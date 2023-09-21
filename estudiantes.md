@@ -184,3 +184,14 @@ Estudia en Amerike y le gusta la filosofía. Es el más calmado de los tres cabr
 ![Luis Eduardo Lemus Pérez](./img/Yx-Z-io.jpg)
 
 ---
+
+### Amaury Flores Estudillo
+
+Estudiante en amerike, inventor del aire
+
+- [cdmx2472@amerike.edu.mx](cdmx2472@amerike.edu.mx)
+- [_GitHub/amauryxd](https://github.com/amauryxd)
+
+![Luis Eduardo Lemus Pérez](./img/Yx-Z-io.jpg)
+
+---
