@@ -192,7 +192,7 @@ Estudiante en amerike, inventor del aire
 - [cdmx2472@amerike.edu.mx](cdmx2472@amerike.edu.mx)
 - [_GitHub/amauryxd](https://github.com/amauryxd)
 
-![Luis Eduardo Lemus Pérez](./img/Yx-Z-io.jpg)
+![amaury](./img/amaury.jpg)
 
 ---
 
