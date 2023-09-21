@@ -185,6 +185,28 @@ Estudia en Amerike y le gusta la filosofía. Es el más calmado de los tres cabr
 
 ---
 
+### Amaury Flores Estudillo
+
+Estudiante en amerike, inventor del aire
+
+- [cdmx2472@amerike.edu.mx](cdmx2472@amerike.edu.mx)
+- [_GitHub/amauryxd](https://github.com/amauryxd)
+
+![Luis Eduardo Lemus Pérez](./img/Yx-Z-io.jpg)
+
+---
+
+### Jonathan Joel Montesinos Pacheco
+
+Soy el futuro de Mexico.
+
+- [cdmx2508@amerike.edu.mx](cdmx2508@amerike.edu.mx)
+- [_GitHub/Jhonny8909](https://github.com/Jhonny8909)
+
+![Alt text](./img/Jonathan.png)
+
+---
+
 ### Mario Eduardo Pérez Villalobos
 
 OTP Neeko
