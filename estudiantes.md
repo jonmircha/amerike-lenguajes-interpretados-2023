@@ -41,7 +41,7 @@ Estudiante del Instituto Universitario Amerike en la carrera de Desarrollo de So
 
 ### Fernando Horta Peña
 
-Soy el pelirrojo de Amerike
+Soy el pelirrojo de Amerike.
 
 - [cdmx2458@amerike.edu.mx](cdmx2458@amerike.edu.mx)
 - [GitHub/KurenaiOuji](https://github.com/KurenaiOuji)
