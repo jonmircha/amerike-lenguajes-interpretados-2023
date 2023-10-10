@@ -1,0 +1,15 @@
+{
+  "nombre": "Jon",
+  "edad": 39,
+  "profesor": true,
+  "materias": [
+    "Lenguajes Interpretados",
+    "Diseño de Interfaces",
+    "Desarrollo Web"
+  ],
+  "contacto": {
+    "correo": "jonmircha@gmail.com",
+    "youtube": "@jonmircha",
+    "movil": "5512345678"
+  }
+}
