@@ -1,0 +1,17 @@
+body {
+  background-color: #222;
+  color: #eee;
+}
+
+.bg-banner-2 {
+  background-image: url(https://amerike.edu.mx/wp-content/uploads/2023/09/banner-pagina-web2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0 50%;
+}
+
+.bg-banner-3 {
+  background-image: url(https://amerike.edu.mx/wp-content/uploads/2023/05/8.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
