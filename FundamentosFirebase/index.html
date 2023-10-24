@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Aprendiendo Firebase</title>
+  </head>
+  <body>
+    <h1>Aprendiendo Firebase</h1>
+    <h2 id="hola"></h2>
+    <h2><i>CRUD Firebase Realtime Database</i></h2>
+    <form id="form-cities">
+      <input type="text" id="country" placeholder="País" required />
+      <input type="text" id="city" placeholder="Ciudad" required />
+      <input type="submit" value="Salvar" />
+      <input type="hidden" id="key" />
+    </form>
+    <table id="table-cities" border="1">
+      <thead>
+        <tr>
+          <th>key</th>
+          <th>País</th>
+          <th>Ciudad</th>
+          <th>editar</th>
+          <th>eliminar</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+    <template id="template-city">
+      <tr id="" class="key-id">
+        <th class="key">key</th>
+        <td class="country">País</td>
+        <td class="city">Ciudad</td>
+        <td><button class="edit">Editar</button></td>
+        <td><button class="delete">Eliminar</button></td>
+      </tr>
+    </template>
+    <script src="js/main.js" type="module"></script>
+  </body>
+</html>
