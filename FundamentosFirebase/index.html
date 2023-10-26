@@ -8,6 +8,7 @@
   <body>
     <h1>Aprendiendo Firebase</h1>
     <h2 id="hola"></h2>
+    <hr />
     <h2><i>CRUD Firebase Realtime Database</i></h2>
     <form id="form-cities">
       <input type="text" id="country" placeholder="País" required />
@@ -15,6 +16,7 @@
       <input type="submit" value="Salvar" />
       <input type="hidden" id="key" />
     </form>
+    <h2>Tabla de Ciudades</h2>
     <table id="table-cities" border="1">
       <thead>
         <tr>
@@ -36,6 +38,21 @@
         <td><button class="delete">Eliminar</button></td>
       </tr>
     </template>
+    <hr />
+    <h2>Autenticación <i>Firebase</i> con <i>Email</i></h2>
+    <h3>Registrarse</h3>
+    <form id="form-signin">
+      <input type="email" name="email" placeholder="email" required />
+      <input type="password" name="pass" placeholder="contraseña" required />
+      <input type="submit" value="Crear Cuenta" />
+    </form>
+    <h3>Iniciar Sesión</h3>
+    <form id="form-login">
+      <input type="email" name="email" placeholder="email" required />
+      <input type="password" name="pass" placeholder="contraseña" required />
+      <input type="submit" value="Ingresar" />
+    </form>
+    <article id="app-auth-email"></article>
     <script src="js/main.js" type="module"></script>
   </body>
 </html>
